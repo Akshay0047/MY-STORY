@@ -1,4 +1,4 @@
-‘Look at me!’ said the Hare to the other animals. ‘Just look how fast I can run.’
+‘Look at me!’ said the Hare ‘Just look how fast I can run.’
 
 The Hare ran across a field as fast as he could. All the animals agreed that yes the Hare was very fast.
 
